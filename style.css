@@ -1,0 +1,166 @@
+body{
+    margin: 0;
+}
+
+.header{
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 550px;
+}
+
+.text{
+    
+    width: 35%;
+    height: 300px;
+    padding-left: 17%;
+    padding-top: 12%;
+    float: left;
+}
+.text h1{
+    color: #15AF51  ;
+    font-size: 49px;
+    font-family: 'Trade Winds';
+}
+.text p{
+    font-family: 'Yeon Sung' ;
+}
+
+.bu{
+    background-image: linear-gradient(40deg, #00B6FF, #B900FF, #FF0070  );
+    width: 130px;
+    height: 40px;
+    border-radius: 8px;
+    color: white;
+    font-size: 18px;
+
+}
+
+
+.header img{
+    width: 40%;
+    height: 500px;
+    float: left;  
+    padding-top: 2%;
+}
+
+.header2{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 550px;
+}
+
+.text1{
+    
+    width: 35%;
+    height: 300px;
+    padding-left: 8%;
+    padding-top: 15%;
+    float: left;
+}
+.text1 p{
+    font-family: 'Yeon Sung' ;
+}
+
+
+.header2 img{
+    width: 40%;
+    height: 500px;
+    float: left;  
+    padding-top: 2%;
+    padding-left: 10%;
+}
+
+
+
+.main{
+    background-image: url(images/latest-work-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 550px;
+}
+
+.main h1{
+    text-align: center;
+    padding-top: 5%;
+    font-size: 40px;
+}
+.work1 img{
+       width: 25%;
+       height: 250px;
+       float: left;
+       margin-left: 12%;
+       margin-top: 80px;
+}
+.work2 img{
+    width: 25%;
+    height: 250px;
+    float: left;
+    margin-left: 1%;
+    margin-top: 80px;
+}
+.work3 img{
+    width: 25%;
+    height: 250px;
+    float: left;
+    margin-left: 1%;
+    margin-top: 80px;
+}
+
+
+
+.footer{
+    background-image: url(images/footer-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 550px;
+}
+
+.footer h1{
+    text-align: center;
+    padding-top: 5%;
+    font-size: 40px;
+}
+.footer h3{
+    text-align: center;
+    padding-top: 1%;
+   
+}
+.footer h5{
+    text-align: center;
+    color: darkgray;
+   
+}
+
+.box{
+    background-image: linear-gradient(45deg, #3BFFA6, #3B9DFF ,#FF3B76 );
+    width: 600px;
+    height: 150px;
+    margin-left: 26%;
+    border-radius: 25px;
+}
+.box h4{
+    text-align: center;
+    padding-top: 28px;
+    color: floralwhite;
+    font-family: 'Raleway' ;
+
+}
+.box h2{
+    text-align: center;
+    
+    color: floralwhite;
+    font-size: 40px;
+}
+
+.copyright{
+    margin-top: 25px;
+}
+
+.copyright p{
+    
+    text-align: center;
+    
+
+}
